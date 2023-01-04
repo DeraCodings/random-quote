@@ -1,5 +1,5 @@
 export const plugins = [
-    require('cssnano')({
+    import('cssnano')({
         preset: 'default',
     }),
 ];
