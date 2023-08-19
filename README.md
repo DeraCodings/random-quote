@@ -14,8 +14,7 @@ To use the web app, follow these steps:
 2. Input the URL, `random-quote-app.netlify.app`, into your browser's search bar. 
 3. Click on the `Pull Quote` button to generate a new quote. 
 
-## App 
-
+## App design
 
 ### The frontend 
 
@@ -44,9 +43,10 @@ The following steps take place when you click the `Pull Quote` button:
 
 ***
 
-### Troubleshooting 
+## Troubleshooting 
 
 If you have error generating quotes, check your internet connection. 
 
+***
 
 **Enjoy the app**
