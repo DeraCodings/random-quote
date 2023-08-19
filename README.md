@@ -22,7 +22,7 @@ The frontend was built with **React**. The app is styled with an external styles
 
 ### The API 
 
-I used the `typfi` API for getting quotes. 
+I used the `type.fit` API for getting quotes. 
 
 ## How the app works under the hood
 
@@ -30,7 +30,7 @@ The Random Quote App working principle is pretty simple.
 
 The following steps take place when you click the `Pull Quote` button:
 
-1. A `GET` request is sent to the `typfi` API. 
+1. A `GET` request is sent to the `type.fit` API. 
 2. If the request is successful, the API returns an array of quotes and the associated authors. 
 3. The `Math.random()` is used to select a quote at random from the returned data. 
 4. The selected quote is displayed along with the author.
@@ -41,7 +41,6 @@ The following steps take place when you click the `Pull Quote` button:
 
 > Isn't that cool 😎? 
 
-***
 
 ## Troubleshooting 
 
