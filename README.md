@@ -11,7 +11,7 @@ Random Quote App is a web app that generates quotes at random. It's part of the 
 To use the web app, follow these steps:
 
 1. Open your web browser of choice. 
-2. Input the URL, `random-quote-app.netlify.app`, into your browser's search bar. 
+2. Input the URL, `dera-quote-app.netlify.app`, into your browser's search bar. 
 3. Click on the `Pull Quote` button to generate a new quote. 
 
 ## App design
